@@ -9,7 +9,7 @@ Quick start
 1. Install django-calvo-comments Comments & Dependancies:
 
     ```
-    pip install srvup-comments django djangorestframework django-cors-headers
+    pip install django-calvo-comments django djangorestframework django-cors-headers
     ```
     
 
