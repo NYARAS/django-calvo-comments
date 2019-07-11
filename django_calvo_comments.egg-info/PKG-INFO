@@ -1,0 +1,41 @@
+Metadata-Version: 1.1
+Name: django-calvo-comments
+Version: 0.0.2
+Summary: A simple Django app to handle comments with javascript.
+Home-page: https://github.com/NYARAS/django-calvo-comments
+Author: Otieno Calvine
+Author-email: hello@calvine.com
+License: MIT License
+Description: =========
+        Comments
+        =========
+        
+        Coming soon
+        
+        Quick start
+        -----------
+        1. Install Dep:
+            pip install djangorestframework django-cors-headers
+        
+        2. Add "comments" to your INSTALLED_APPS setting like this::
+        
+            INSTALLED_APPS = [
+                ...
+                'corsheaders', # https://github.com/ottoyiu/django-cors-headers
+                'rest_framework', # http://www.django-rest-framework.org/
+                'comments',
+            ]
+        
+        
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 1.10
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
